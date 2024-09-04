@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiTap04", "BaiTap04\BaiTap04.csproj", "{6D86EA36-58E4-4CF9-BD5E-6BEE6F36A295}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B88D5F10-430E-4D81-B33D-F780C3151F7B}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D86EA36-58E4-4CF9-BD5E-6BEE6F36A295}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D86EA36-58E4-4CF9-BD5E-6BEE6F36A295}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D86EA36-58E4-4CF9-BD5E-6BEE6F36A295}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D86EA36-58E4-4CF9-BD5E-6BEE6F36A295}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B44390D-DD53-409C-B719-0F076708AF66}
+	EndGlobalSection
+EndGlobal
