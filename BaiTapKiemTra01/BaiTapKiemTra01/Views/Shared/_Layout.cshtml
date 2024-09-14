@@ -1,0 +1,70 @@
+﻿
+<html lang="en">
+<head>
+	<title>Forty by HTML5 UP</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<link rel="stylesheet" href="~/css/main.css" />
+	<noscript><link rel="stylesheet" href="~/css/noscript.css" /></noscript>
+</head>
+<body>
+	<div id="js-preloader" class="js-preloader">
+		<div class="preloader-inner">
+			<span class="dot"></span>
+			<div class="dots">
+				<span></span>
+				<span></span>
+				<span></span>
+			</div>
+		</div>
+	</div>
+	<!-- ***** Preloader End ***** -->
+	<!-- ***** Header Area Start ***** -->
+	<!-- Header -->
+	<div id="wrapper">
+
+		<!-- Header -->
+		<header id="header">
+			<a href="index.html" class="logo"><strong>Forty</strong> <span>by HTML5 UP</span></a>
+			<nav>
+				<a href="#menu">Menu</a>
+			</nav>
+		</header>
+
+
+
+		<section class="contact">
+			<div class="inner">
+				<main role="main" class="">
+					@RenderBody()
+				</main>
+			</div>
+		</section>
+
+
+		<footer id="footer">
+			<div class="inner">
+				<ul class="icons">
+					<li><a href="#" class="icon brands alt fa-twitter"><span class="label">Twitter</span></a></li>
+					<li><a href="#" class="icon brands alt fa-facebook-f"><span class="label">Facebook</span></a></li>
+					<li><a href="#" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
+					<li><a href="#" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+					<li><a href="#" class="icon brands alt fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+				</ul>
+				<ul class="copyright">
+					<li>&copy; Untitled</li>
+					<li>Design: <a href="https://html5up.net">HTML5 UP</a></li>
+				</ul>
+			</div>
+		</footer>
+
+		<script src="~/js/jquery.min.js"></script>
+		<script src="~/js/jquery.scrolly.min.js"></script>
+		<script src="~/js/jquery.scrollex.min.js"></script>
+		<script src="~/js/browser.min.js"></script>
+		<script src="~/js/breakpoints.min.js"></script>
+		<script src="~/js/util.js"></script>
+		<script src="~/js/main.js"></script>
+		@await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
