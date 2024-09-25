@@ -1,0 +1,348 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Documents\\Zalo Received Files\\Project\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD62137A-4D69-433F-826E-2C4099261724}|Project\\Project.csproj|c:\\users\\asus\\documents\\zalo received files\\project\\project\\project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FD62137A-4D69-433F-826E-2C4099261724}|Project\\Project.csproj|solutionrelative:project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD62137A-4D69-433F-826E-2C4099261724}|Project\\Project.csproj|c:\\users\\asus\\documents\\zalo received files\\project\\project\\project\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FD62137A-4D69-433F-826E-2C4099261724}|Project\\Project.csproj|solutionrelative:project\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD62137A-4D69-433F-826E-2C4099261724}|Project\\Project.csproj|c:\\users\\asus\\documents\\zalo received files\\project\\project\\project\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FD62137A-4D69-433F-826E-2C4099261724}|Project\\Project.csproj|solutionrelative:project\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD62137A-4D69-433F-826E-2C4099261724}|Project\\Project.csproj|c:\\users\\asus\\documents\\zalo received files\\project\\project\\project\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD62137A-4D69-433F-826E-2C4099261724}|Project\\Project.csproj|solutionrelative:project\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD62137A-4D69-433F-826E-2C4099261724}|Project\\Project.csproj|c:\\users\\asus\\documents\\zalo received files\\project\\project\\project\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD62137A-4D69-433F-826E-2C4099261724}|Project\\Project.csproj|solutionrelative:project\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD62137A-4D69-433F-826E-2C4099261724}|Project\\Project.csproj|c:\\users\\asus\\documents\\zalo received files\\project\\project\\project\\models\\theloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD62137A-4D69-433F-826E-2C4099261724}|Project\\Project.csproj|solutionrelative:project\\models\\theloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD62137A-4D69-433F-826E-2C4099261724}|Project\\Project.csproj|c:\\users\\asus\\documents\\zalo received files\\project\\project\\project\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD62137A-4D69-433F-826E-2C4099261724}|Project\\Project.csproj|solutionrelative:project\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD62137A-4D69-433F-826E-2C4099261724}|Project\\Project.csproj|c:\\users\\asus\\documents\\zalo received files\\project\\project\\project\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD62137A-4D69-433F-826E-2C4099261724}|Project\\Project.csproj|solutionrelative:project\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD62137A-4D69-433F-826E-2C4099261724}|Project\\Project.csproj|c:\\users\\asus\\documents\\zalo received files\\project\\project\\project\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD62137A-4D69-433F-826E-2C4099261724}|Project\\Project.csproj|solutionrelative:project\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD62137A-4D69-433F-826E-2C4099261724}|Project\\Project.csproj|c:\\users\\asus\\documents\\zalo received files\\project\\project\\project\\controllers\\theloaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD62137A-4D69-433F-826E-2C4099261724}|Project\\Project.csproj|solutionrelative:project\\controllers\\theloaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD62137A-4D69-433F-826E-2C4099261724}|Project\\Project.csproj|c:\\users\\asus\\documents\\zalo received files\\project\\project\\project\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD62137A-4D69-433F-826E-2C4099261724}|Project\\Project.csproj|solutionrelative:project\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD62137A-4D69-433F-826E-2C4099261724}|Project\\Project.csproj|c:\\users\\asus\\documents\\zalo received files\\project\\project\\project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD62137A-4D69-433F-826E-2C4099261724}|Project\\Project.csproj|solutionrelative:project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD62137A-4D69-433F-826E-2C4099261724}|Project\\Project.csproj|c:\\users\\asus\\documents\\zalo received files\\project\\project\\project\\data\\migrations\\20240925073647_taosanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD62137A-4D69-433F-826E-2C4099261724}|Project\\Project.csproj|solutionrelative:project\\data\\migrations\\20240925073647_taosanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD62137A-4D69-433F-826E-2C4099261724}|Project\\Project.csproj|c:\\users\\asus\\documents\\zalo received files\\project\\project\\project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD62137A-4D69-433F-826E-2C4099261724}|Project\\Project.csproj|solutionrelative:project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD62137A-4D69-433F-826E-2C4099261724}|Project\\Project.csproj|c:\\users\\asus\\documents\\zalo received files\\project\\project\\project\\areas\\admin\\views\\theloai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD62137A-4D69-433F-826E-2C4099261724}|Project\\Project.csproj|solutionrelative:project\\areas\\admin\\views\\theloai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD62137A-4D69-433F-826E-2C4099261724}|Project\\Project.csproj|c:\\users\\asus\\documents\\zalo received files\\project\\project\\project\\areas\\admin\\views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD62137A-4D69-433F-826E-2C4099261724}|Project\\Project.csproj|solutionrelative:project\\areas\\admin\\views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD62137A-4D69-433F-826E-2C4099261724}|Project\\Project.csproj|c:\\users\\asus\\documents\\zalo received files\\project\\project\\project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD62137A-4D69-433F-826E-2C4099261724}|Project\\Project.csproj|solutionrelative:project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD62137A-4D69-433F-826E-2C4099261724}|Project\\Project.csproj|c:\\users\\asus\\documents\\zalo received files\\project\\project\\project\\data\\migrations\\20240925071335_taotheloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD62137A-4D69-433F-826E-2C4099261724}|Project\\Project.csproj|solutionrelative:project\\data\\migrations\\20240925071335_taotheloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD62137A-4D69-433F-826E-2C4099261724}|Project\\Project.csproj|c:\\users\\asus\\documents\\zalo received files\\project\\project\\project\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{FD62137A-4D69-433F-826E-2C4099261724}|Project\\Project.csproj|solutionrelative:project\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Zalo Received Files\\Project\\Project\\Project\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Project\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Zalo Received Files\\Project\\Project\\Project\\appsettings.Development.json",
+              "RelativeToolTip": "Project\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-25T13:33:18.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Zalo Received Files\\Project\\Project\\Project\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Project\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Zalo Received Files\\Project\\Project\\Project\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Project\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T13:33:15.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Zalo Received Files\\Project\\Project\\Project\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Project\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Zalo Received Files\\Project\\Project\\Project\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Project\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T13:33:13.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Zalo Received Files\\Project\\Project\\Project\\Models\\SanPham.cs",
+              "RelativeDocumentMoniker": "Project\\Models\\SanPham.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Zalo Received Files\\Project\\Project\\Project\\Models\\SanPham.cs",
+              "RelativeToolTip": "Project\\Models\\SanPham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T07:29:32.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Zalo Received Files\\Project\\Project\\Project\\appsettings.json",
+              "RelativeDocumentMoniker": "Project\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Zalo Received Files\\Project\\Project\\Project\\appsettings.json",
+              "RelativeToolTip": "Project\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-25T06:52:55.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Zalo Received Files\\Project\\Project\\Project\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Project\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Zalo Received Files\\Project\\Project\\Project\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Project\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-25T06:58:25.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Zalo Received Files\\Project\\Project\\Project\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Project\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Zalo Received Files\\Project\\Project\\Project\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Project\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T13:33:04.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SanPhamController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Zalo Received Files\\Project\\Project\\Project\\Controllers\\SanPhamController.cs",
+              "RelativeDocumentMoniker": "Project\\Controllers\\SanPhamController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Zalo Received Files\\Project\\Project\\Project\\Controllers\\SanPhamController.cs",
+              "RelativeToolTip": "Project\\Controllers\\SanPhamController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T07:44:04.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Zalo Received Files\\Project\\Project\\Project\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Project\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Zalo Received Files\\Project\\Project\\Project\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Project\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T07:16:14.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TheLoaiController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Zalo Received Files\\Project\\Project\\Project\\Controllers\\TheLoaiController.cs",
+              "RelativeDocumentMoniker": "Project\\Controllers\\TheLoaiController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Zalo Received Files\\Project\\Project\\Project\\Controllers\\TheLoaiController.cs",
+              "RelativeToolTip": "Project\\Controllers\\TheLoaiController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAwwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T07:02:29.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TheLoai.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Zalo Received Files\\Project\\Project\\Project\\Models\\TheLoai.cs",
+              "RelativeDocumentMoniker": "Project\\Models\\TheLoai.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Zalo Received Files\\Project\\Project\\Project\\Models\\TheLoai.cs",
+              "RelativeToolTip": "Project\\Models\\TheLoai.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T06:59:27.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240925073647_TaoSanPham.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Zalo Received Files\\Project\\Project\\Project\\Data\\Migrations\\20240925073647_TaoSanPham.cs",
+              "RelativeDocumentMoniker": "Project\\Data\\Migrations\\20240925073647_TaoSanPham.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Zalo Received Files\\Project\\Project\\Project\\Data\\Migrations\\20240925073647_TaoSanPham.cs",
+              "RelativeToolTip": "Project\\Data\\Migrations\\20240925073647_TaoSanPham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T07:36:47.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Zalo Received Files\\Project\\Project\\Project\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Project\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Zalo Received Files\\Project\\Project\\Project\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Project\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T07:01:06.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Zalo Received Files\\Project\\Project\\Project\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Zalo Received Files\\Project\\Project\\Project\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Project\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T07:48:24.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Zalo Received Files\\Project\\Project\\Project\\Areas\\Admin\\Views\\TheLoai\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project\\Areas\\Admin\\Views\\TheLoai\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Zalo Received Files\\Project\\Project\\Project\\Areas\\Admin\\Views\\TheLoai\\Index.cshtml",
+              "RelativeToolTip": "Project\\Areas\\Admin\\Views\\TheLoai\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T07:49:43.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Zalo Received Files\\Project\\Project\\Project\\Areas\\Admin\\Views\\SanPham\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project\\Areas\\Admin\\Views\\SanPham\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Zalo Received Files\\Project\\Project\\Project\\Areas\\Admin\\Views\\SanPham\\Index.cshtml",
+              "RelativeToolTip": "Project\\Areas\\Admin\\Views\\SanPham\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T07:48:05.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240925071335_TaoTheLoai.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Zalo Received Files\\Project\\Project\\Project\\Data\\Migrations\\20240925071335_TaoTheLoai.cs",
+              "RelativeDocumentMoniker": "Project\\Data\\Migrations\\20240925071335_TaoTheLoai.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Zalo Received Files\\Project\\Project\\Project\\Data\\Migrations\\20240925071335_TaoTheLoai.cs",
+              "RelativeToolTip": "Project\\Data\\Migrations\\20240925071335_TaoTheLoai.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T07:13:35.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Zalo Received Files\\Project\\Project\\Project\\Program.cs",
+              "RelativeDocumentMoniker": "Project\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Zalo Received Files\\Project\\Project\\Project\\Program.cs",
+              "RelativeToolTip": "Project\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T06:52:48.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Zalo Received Files\\Project\\Project\\Project\\.gitignore",
+              "RelativeDocumentMoniker": "Project\\.gitignore",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Zalo Received Files\\Project\\Project\\Project\\.gitignore",
+              "RelativeToolTip": "Project\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-25T06:49:32.586Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
