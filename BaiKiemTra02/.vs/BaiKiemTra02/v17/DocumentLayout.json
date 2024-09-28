@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LTWeb\\ASP.web\\BaiKiemTra02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A227895D-0FA4-4926-AC7F-EB1016EBF397}|BaiKiemTra02\\BaiKiemTra02.csproj|d:\\ltweb\\asp.web\\baikiemtra02\\baikiemtra02\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A227895D-0FA4-4926-AC7F-EB1016EBF397}|BaiKiemTra02\\BaiKiemTra02.csproj|solutionrelative:baikiemtra02\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A227895D-0FA4-4926-AC7F-EB1016EBF397}|BaiKiemTra02\\BaiKiemTra02.csproj|d:\\ltweb\\asp.web\\baikiemtra02\\baikiemtra02\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A227895D-0FA4-4926-AC7F-EB1016EBF397}|BaiKiemTra02\\BaiKiemTra02.csproj|solutionrelative:baikiemtra02\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A227895D-0FA4-4926-AC7F-EB1016EBF397}|BaiKiemTra02\\BaiKiemTra02.csproj|d:\\ltweb\\asp.web\\baikiemtra02\\baikiemtra02\\controllers\\lophoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A227895D-0FA4-4926-AC7F-EB1016EBF397}|BaiKiemTra02\\BaiKiemTra02.csproj|solutionrelative:baikiemtra02\\controllers\\lophoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A227895D-0FA4-4926-AC7F-EB1016EBF397}|BaiKiemTra02\\BaiKiemTra02.csproj|d:\\ltweb\\asp.web\\baikiemtra02\\baikiemtra02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A227895D-0FA4-4926-AC7F-EB1016EBF397}|BaiKiemTra02\\BaiKiemTra02.csproj|solutionrelative:baikiemtra02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A227895D-0FA4-4926-AC7F-EB1016EBF397}|BaiKiemTra02\\BaiKiemTra02.csproj|d:\\ltweb\\asp.web\\baikiemtra02\\baikiemtra02\\models\\lophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A227895D-0FA4-4926-AC7F-EB1016EBF397}|BaiKiemTra02\\BaiKiemTra02.csproj|solutionrelative:baikiemtra02\\models\\lophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A227895D-0FA4-4926-AC7F-EB1016EBF397}|BaiKiemTra02\\BaiKiemTra02.csproj|d:\\ltweb\\asp.web\\baikiemtra02\\baikiemtra02\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A227895D-0FA4-4926-AC7F-EB1016EBF397}|BaiKiemTra02\\BaiKiemTra02.csproj|solutionrelative:baikiemtra02\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A227895D-0FA4-4926-AC7F-EB1016EBF397}|BaiKiemTra02\\BaiKiemTra02.csproj|d:\\ltweb\\asp.web\\baikiemtra02\\baikiemtra02\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A227895D-0FA4-4926-AC7F-EB1016EBF397}|BaiKiemTra02\\BaiKiemTra02.csproj|solutionrelative:baikiemtra02\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A227895D-0FA4-4926-AC7F-EB1016EBF397}|BaiKiemTra02\\BaiKiemTra02.csproj|d:\\ltweb\\asp.web\\baikiemtra02\\baikiemtra02\\views\\lophoc\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A227895D-0FA4-4926-AC7F-EB1016EBF397}|BaiKiemTra02\\BaiKiemTra02.csproj|solutionrelative:baikiemtra02\\views\\lophoc\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A227895D-0FA4-4926-AC7F-EB1016EBF397}|BaiKiemTra02\\BaiKiemTra02.csproj|d:\\ltweb\\asp.web\\baikiemtra02\\baikiemtra02\\views\\lophoc\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A227895D-0FA4-4926-AC7F-EB1016EBF397}|BaiKiemTra02\\BaiKiemTra02.csproj|solutionrelative:baikiemtra02\\views\\lophoc\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A227895D-0FA4-4926-AC7F-EB1016EBF397}|BaiKiemTra02\\BaiKiemTra02.csproj|d:\\ltweb\\asp.web\\baikiemtra02\\baikiemtra02\\views\\lophoc\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A227895D-0FA4-4926-AC7F-EB1016EBF397}|BaiKiemTra02\\BaiKiemTra02.csproj|solutionrelative:baikiemtra02\\views\\lophoc\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A227895D-0FA4-4926-AC7F-EB1016EBF397}|BaiKiemTra02\\BaiKiemTra02.csproj|d:\\ltweb\\asp.web\\baikiemtra02\\baikiemtra02\\views\\lophoc\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A227895D-0FA4-4926-AC7F-EB1016EBF397}|BaiKiemTra02\\BaiKiemTra02.csproj|solutionrelative:baikiemtra02\\views\\lophoc\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A227895D-0FA4-4926-AC7F-EB1016EBF397}|BaiKiemTra02\\BaiKiemTra02.csproj|d:\\ltweb\\asp.web\\baikiemtra02\\baikiemtra02\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A227895D-0FA4-4926-AC7F-EB1016EBF397}|BaiKiemTra02\\BaiKiemTra02.csproj|solutionrelative:baikiemtra02\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A227895D-0FA4-4926-AC7F-EB1016EBF397}|BaiKiemTra02\\BaiKiemTra02.csproj|d:\\ltweb\\asp.web\\baikiemtra02\\baikiemtra02\\views\\lophoc\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A227895D-0FA4-4926-AC7F-EB1016EBF397}|BaiKiemTra02\\BaiKiemTra02.csproj|solutionrelative:baikiemtra02\\views\\lophoc\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A227895D-0FA4-4926-AC7F-EB1016EBF397}|BaiKiemTra02\\BaiKiemTra02.csproj|d:\\ltweb\\asp.web\\baikiemtra02\\baikiemtra02\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A227895D-0FA4-4926-AC7F-EB1016EBF397}|BaiKiemTra02\\BaiKiemTra02.csproj|solutionrelative:baikiemtra02\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\LTWeb\\ASP.web\\BaiKiemTra02\\BaiKiemTra02\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "BaiKiemTra02\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\LTWeb\\ASP.web\\BaiKiemTra02\\BaiKiemTra02\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "BaiKiemTra02\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T08:41:28.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\LTWeb\\ASP.web\\BaiKiemTra02\\BaiKiemTra02\\Views\\LopHoc\\Details.cshtml",
+              "RelativeDocumentMoniker": "BaiKiemTra02\\Views\\LopHoc\\Details.cshtml",
+              "ToolTip": "D:\\LTWeb\\ASP.web\\BaiKiemTra02\\BaiKiemTra02\\Views\\LopHoc\\Details.cshtml",
+              "RelativeToolTip": "BaiKiemTra02\\Views\\LopHoc\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T07:46:27.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\LTWeb\\ASP.web\\BaiKiemTra02\\BaiKiemTra02\\Views\\LopHoc\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BaiKiemTra02\\Views\\LopHoc\\Delete.cshtml",
+              "ToolTip": "D:\\LTWeb\\ASP.web\\BaiKiemTra02\\BaiKiemTra02\\Views\\LopHoc\\Delete.cshtml",
+              "RelativeToolTip": "BaiKiemTra02\\Views\\LopHoc\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T07:44:15.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\LTWeb\\ASP.web\\BaiKiemTra02\\BaiKiemTra02\\Views\\LopHoc\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BaiKiemTra02\\Views\\LopHoc\\Edit.cshtml",
+              "ToolTip": "D:\\LTWeb\\ASP.web\\BaiKiemTra02\\BaiKiemTra02\\Views\\LopHoc\\Edit.cshtml",
+              "RelativeToolTip": "BaiKiemTra02\\Views\\LopHoc\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T07:42:12.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\LTWeb\\ASP.web\\BaiKiemTra02\\BaiKiemTra02\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "BaiKiemTra02\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\LTWeb\\ASP.web\\BaiKiemTra02\\BaiKiemTra02\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "BaiKiemTra02\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T07:40:15.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\LTWeb\\ASP.web\\BaiKiemTra02\\BaiKiemTra02\\Views\\LopHoc\\Create.cshtml",
+              "RelativeDocumentMoniker": "BaiKiemTra02\\Views\\LopHoc\\Create.cshtml",
+              "ToolTip": "D:\\LTWeb\\ASP.web\\BaiKiemTra02\\BaiKiemTra02\\Views\\LopHoc\\Create.cshtml",
+              "RelativeToolTip": "BaiKiemTra02\\Views\\LopHoc\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T07:36:24.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\LTWeb\\ASP.web\\BaiKiemTra02\\BaiKiemTra02\\appsettings.json",
+              "RelativeDocumentMoniker": "BaiKiemTra02\\appsettings.json",
+              "ToolTip": "D:\\LTWeb\\ASP.web\\BaiKiemTra02\\BaiKiemTra02\\appsettings.json",
+              "RelativeToolTip": "BaiKiemTra02\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-28T07:12:38.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LTWeb\\ASP.web\\BaiKiemTra02\\BaiKiemTra02\\Program.cs",
+              "RelativeDocumentMoniker": "BaiKiemTra02\\Program.cs",
+              "ToolTip": "D:\\LTWeb\\ASP.web\\BaiKiemTra02\\BaiKiemTra02\\Program.cs",
+              "RelativeToolTip": "BaiKiemTra02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T07:13:17.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LopHocController.cs",
+              "DocumentMoniker": "D:\\LTWeb\\ASP.web\\BaiKiemTra02\\BaiKiemTra02\\Controllers\\LopHocController.cs",
+              "RelativeDocumentMoniker": "BaiKiemTra02\\Controllers\\LopHocController.cs",
+              "ToolTip": "D:\\LTWeb\\ASP.web\\BaiKiemTra02\\BaiKiemTra02\\Controllers\\LopHocController.cs",
+              "RelativeToolTip": "BaiKiemTra02\\Controllers\\LopHocController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T07:21:04.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LopHoc.cs",
+              "DocumentMoniker": "D:\\LTWeb\\ASP.web\\BaiKiemTra02\\BaiKiemTra02\\Models\\LopHoc.cs",
+              "RelativeDocumentMoniker": "BaiKiemTra02\\Models\\LopHoc.cs",
+              "ToolTip": "D:\\LTWeb\\ASP.web\\BaiKiemTra02\\BaiKiemTra02\\Models\\LopHoc.cs",
+              "RelativeToolTip": "BaiKiemTra02\\Models\\LopHoc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T07:59:05.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\LTWeb\\ASP.web\\BaiKiemTra02\\BaiKiemTra02\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "BaiKiemTra02\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\LTWeb\\ASP.web\\BaiKiemTra02\\BaiKiemTra02\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "BaiKiemTra02\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAEsBAAAAAAAAAAAQwAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T08:15:21.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\LTWeb\\ASP.web\\BaiKiemTra02\\BaiKiemTra02\\Views\\LopHoc\\Index.cshtml",
+              "RelativeDocumentMoniker": "BaiKiemTra02\\Views\\LopHoc\\Index.cshtml",
+              "ToolTip": "D:\\LTWeb\\ASP.web\\BaiKiemTra02\\BaiKiemTra02\\Views\\LopHoc\\Index.cshtml",
+              "RelativeToolTip": "BaiKiemTra02\\Views\\LopHoc\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T07:49:30.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\LTWeb\\ASP.web\\BaiKiemTra02\\BaiKiemTra02\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BaiKiemTra02\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\LTWeb\\ASP.web\\BaiKiemTra02\\BaiKiemTra02\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BaiKiemTra02\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T08:06:59.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "00000000000000_CreateIdentitySchema.cs",
+              "DocumentMoniker": "D:\\LTWeb\\ASP.web\\BaiKiemTra02\\BaiKiemTra02\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeDocumentMoniker": "BaiKiemTra02\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ToolTip": "D:\\LTWeb\\ASP.web\\BaiKiemTra02\\BaiKiemTra02\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeToolTip": "BaiKiemTra02\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T08:14:56.923Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
