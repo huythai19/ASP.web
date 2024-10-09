@@ -22,8 +22,6 @@
     <Folder Include="Areas\Admin\Controllers\" />
     <Folder Include="Areas\Customer\Controllers\" />
     <Folder Include="Areas\Customer\Views\" />
-    <Folder Include="Views\Customer\" />
-    <Folder Include="wwwroot\anhchup\" />
   </ItemGroup>
 
 </Project>
