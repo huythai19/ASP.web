@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BaiKiemTra03_03")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69e62fc28c0dd454810773a3cf6aed938c2947a9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("BaiKiemTra03_03")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BaiKiemTra03_03")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
