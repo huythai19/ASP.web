@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\LTWeb\\ASP.web\\BaiKiemTra03_03\\BaiKiemTra03_03\\BaiKiemTra03_03.csproj": {}
+    "D:\\LTASP\\New folder (2)\\ASPweb\\BaiKiemTra03_03\\BaiKiemTra03_03\\BaiKiemTra03_03.csproj": {}
   },
   "projects": {
-    "D:\\LTWeb\\ASP.web\\BaiKiemTra03_03\\BaiKiemTra03_03\\BaiKiemTra03_03.csproj": {
+    "D:\\LTASP\\New folder (2)\\ASPweb\\BaiKiemTra03_03\\BaiKiemTra03_03\\BaiKiemTra03_03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\LTWeb\\ASP.web\\BaiKiemTra03_03\\BaiKiemTra03_03\\BaiKiemTra03_03.csproj",
+        "projectUniqueName": "D:\\LTASP\\New folder (2)\\ASPweb\\BaiKiemTra03_03\\BaiKiemTra03_03\\BaiKiemTra03_03.csproj",
         "projectName": "BaiKiemTra03_03",
-        "projectPath": "D:\\LTWeb\\ASP.web\\BaiKiemTra03_03\\BaiKiemTra03_03\\BaiKiemTra03_03.csproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\LTWeb\\ASP.web\\BaiKiemTra03_03\\BaiKiemTra03_03\\obj\\",
+        "projectPath": "D:\\LTASP\\New folder (2)\\ASPweb\\BaiKiemTra03_03\\BaiKiemTra03_03\\BaiKiemTra03_03.csproj",
+        "packagesPath": "C:\\Users\\MANH\\.nuget\\packages\\",
+        "outputPath": "D:\\LTASP\\New folder (2)\\ASPweb\\BaiKiemTra03_03\\BaiKiemTra03_03\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MANH\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -97,7 +98,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
